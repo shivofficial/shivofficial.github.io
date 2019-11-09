@@ -1,14 +1,8 @@
 Welcome
 ==========
 
-You have arrived.
+This website is home to (soon to be) many Python tutorials for a variety of different projects.
+Select one of the few below to get started!
 
-*Why are you here?* 
 
-insert excuse
-
-Wait don't go..
-
-```
-It gets lonely here
-```
+<a href="#" class="button">ShivCraft (link)</a>
